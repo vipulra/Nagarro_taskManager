@@ -1,5 +1,5 @@
 const {Router} = require('express');
-const { Todos , Notes } = require('C:\\Users\\vipulrastogi\\Desktop\\Nagarro\\db.js')
+const { Todos , Notes } = require('./db')
 const route = Router();
 
 // <--------- Get All Todo Task------------>
