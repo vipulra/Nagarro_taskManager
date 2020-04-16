@@ -74,7 +74,7 @@ async function expand(id) {
   for (note in notes) {
       // console.log(note);
       let listNote = document.createElement('li')
-      listNote.innerText = notes[note].descrip;
+      listNote.innerText =  notes[note].descrip;
       noteOne.appendChild(listNote)  
   }
 }
