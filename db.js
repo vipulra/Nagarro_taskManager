@@ -48,5 +48,5 @@ Todos.hasMany(Notes);
 
 
 
-module.exports = { db, Notes , Todos }
+module.exports = { db, Notes ,  Todos }
 
