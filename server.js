@@ -1,6 +1,6 @@
 const express = require('express');
 
-const{ db } = require('C:\\Users\\vipulrastogi\\Desktop\\Nagarro\\db.js')
+const { db } = require('C:\\Users\\vipulrastogi\\Desktop\\Nagarro\\db.js')
 const todoRoute = require('./routes/todos')
 const app = express();
 
