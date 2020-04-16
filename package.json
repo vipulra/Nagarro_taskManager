@@ -1,0 +1,19 @@
+{
+  "name": "nagarro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "sequelize": "^5.21.6",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
